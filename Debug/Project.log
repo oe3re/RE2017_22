@@ -1,0 +1,4 @@
+﻿  Assembling 4inArow.asm...
+4inArow.asm(14): warning A4011: multiple .MODEL directives found : .MODEL ignored
+  Project.vcxproj -> C:\Users\Korisnik\Desktop\ETF\anno (3) tres\VI sem\RE\Project32_VS2015\Debug\Project.exe
+  Project.vcxproj -> C:\Users\Korisnik\Desktop\ETF\anno (3) tres\VI sem\RE\Project32_VS2015\Debug\Project.pdb (Full PDB)
